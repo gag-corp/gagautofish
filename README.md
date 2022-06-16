@@ -6,10 +6,12 @@
 
 ## Setting up Minecraft:
 - Set Minecraft language to English;
-- Inside Options > Accesibility Settings:
-    - Turn "Show Subtitles" to On
-    - Turn "Text Background Opacity" to 100%
+- Inside Options > Accessibility Settings:
+    - Turn "Show Subtitles" to On;
+    - Turn "Text Background Opacity" to 100%;
+    - Set "Text Background" to Everywhere;
 - Inside Option > Video Settings:
-    - Set "Fullscreen" to Off (To avoid any possible bugs that may occur);
+    - Set "GUI Scale" to 2;
+    - Set "Fullscreen" to Off;
 
 ### HAVE FUN DOING ANY OTHER THING WHILE FISHING!

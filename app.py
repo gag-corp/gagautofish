@@ -10,8 +10,9 @@ def autofish():
             gui.click(button='right')
 
 if __name__ == '__main__':
-    time.sleep(5)
     print('STARTING...')
+    time.sleep(5)
+    print('FISHING!')
     gui.click(button='right')
     time.sleep(2)
     autofish()
